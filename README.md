@@ -49,6 +49,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhertrich&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhertrich)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **samuelhertrich/samuelhertrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
